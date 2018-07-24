@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../src/main/resources/META-INF/resources/lib/reducer.js"],"names":["homenav"],"mappings":";;;;;;oBAGe,4BAAgB,EAACA,wBAAD,EAAhB,C","file":"reducer.js","sourcesContent":["import {combineReducers} from 'redux'\nimport {homenav} from './redux/redux'\n\nexport default combineReducers({homenav})"]}
